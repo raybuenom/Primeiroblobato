@@ -2,3 +2,6 @@ body{
 background: linear-gradient(to right, #cd04ffb0, #9908f9b0, #df00fdc7, #b331ffa2);
 
 }
+.cabecalho{
+    background-color: aqua;
+}
