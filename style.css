@@ -7,7 +7,7 @@ background: linear-gradient(to right, #fffb04e1, #f5f9089d, #ff6105e8, #f8510ffb
 
 }
 .cabecalho{
-    background-color: darkmagenta;
+    background-color: rgb(255, 29, 29);
 padding: 30px;
 text-align: center;
 display: flex;
