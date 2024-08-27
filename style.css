@@ -9,4 +9,23 @@ background: linear-gradient(to right, #cd04ffb0, #9908f9b0, #df00fdc7, #b331ffa2
 .cabecalho{
     background-color: darkmagenta;
 padding: 30px;
+text-align: center;
+display: flex;
+
 }
+.computador{
+    padding: 10px;
+    right: 50%;
+}
+.video{
+     position: relative
+     width: 100%;
+     max-width : 800px;
+
+}
+
+  .video iframe{
+     width: 100%;
+     height: 450px;
+     border: none;
+  }
